@@ -7,37 +7,38 @@ install this plugin https://chrome.google.com/webstore/detail/allow-control-allo
 
 ## To run this project, please use following commands:
 
-### `git clone https://github.com/chiefman1/react-food`
-### `cd react-food`
-### `npm install`
-### `npm start`
+##### `git clone https://github.com/chiefman1/react-food`
+##### `cd react-food`
+##### `npm install`
+##### `npm start`
 
 ### or, alternatively:
 
-### `yarn install`
-### `yarn start`
+##### `yarn install`
+##### `yarn start`
 
 ## Folder Structure
-
-#### react-food/
-  ####   ├── README.md
-  ####   ├── node_modules/
-  ####   ├── package.json
-  ####   ├── public/
-    ####             ├─ index.html
-    ####             ├─ favicon.ico
-  ####  ├── src/
-    ####             ├─ App.test.js
-    ####             ├─ index.css
-    ####             ├─ index.js
-    ####             ├─ src/components/
-      ####                               ├─  App.js
-      ####                               ├─  CategoriesList.js
-      ####                               ├─  Category.js
-      ####                               ├─  Item.js
-      ####                               ├─  ItemList.js
-      ####                               ├─  Search.js
-
+`
+├react-food/
+│          │
+│          ├── README.md
+│          ├── node_modules/
+│          ├── package.json
+│          ├── public/
+│          │          ├─ index.html
+│          │          ├─ favicon.ico
+│          ├── src/
+│          │       ├─ App.test.js
+│          │       ├─ index.css
+│          │       ├─ index.js
+│          │       ├─ src/components/
+│          │                        ├─  App.js
+│          │                        ├─  CategoriesList.js
+│          │                        ├─  Category.js
+│          │                        ├─  Item.js
+│          │                        ├─  ItemList.js
+│          │                        ├─  Search.js
+`
 
 ## Available Scripts
 

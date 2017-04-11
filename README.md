@@ -18,45 +18,27 @@ install this plugin https://chrome.google.com/webstore/detail/allow-control-allo
 ##### `yarn start`
 
 ## Folder Structure
-`
+```
 ├react-food/
-
 │          │
-
 │          ├── README.md
-
 │          ├── node_modules/
-
 │          ├── package.json
-
 │          ├── public/
-
 │          │          ├─ index.html
-
 │          │          ├─ favicon.ico
-
 │          ├── src/
-
-│          │       ├─ App.test.js
-
-│          │       ├─ index.css
-
-│          │       ├─ index.js
-
-│          │       ├─ src/components/
-
-│          │                        ├─  App.js
-
-│          │                        ├─  CategoriesList.js
-
-│          │                        ├─  Category.js
-
-│          │                        ├─  Item.js
-
-│          │                        ├─  ItemList.js
-
-│          │                        ├─  Search.js
-
+│          │          ├─ App.test.js
+│          │          ├─ index.css
+│          │          ├─ index.js
+│          │          ├─ src/components/
+│          │          │                 ├─  App.js
+│          │          │                 ├─  CategoriesList.js
+│          │          │                 ├─  Category.js
+│          │          │                 ├─  Item.js
+│          │          │                 ├─  ItemList.js
+│          │          │                 ├─  Search.js
+```
 ## Available Scripts
 
 In the project directory, you can run:

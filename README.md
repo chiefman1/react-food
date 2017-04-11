@@ -3,39 +3,48 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 For cross origin accessibility please disable cross origin restrictions in your browser. Safari: Develop/Disable Cross Origin Restrictions, Chrome:
 install this plugin https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi)
 
-##To run this project, please use following commands:
+###To run this project, please use following commands:
 
-### `npm install`
-### `npm start`
+ `npm install`
+ `npm start`
 
-##or, alternatively:
+###or, alternatively:
 
-### `yarn install`
-### `yarn start`
+ `yarn install`
+ `yarn start`
 
-##Project Folder Structure
+###Folder Structure
 
-react-food/
-  README.md
-  node_modules/
-  package.json
-  public/
-      index.html
-      favicon.ico
-  src/
-      App.test.js
-      index.css
-      index.js
-      src/components
-            App.js
-            CategoriesList.js
-            Category.js
-            Item.js
-            ItemList.js
-            Search.js
+.
+├── build                   # Compiled files (alternatively `dist`)
+├── docs                    # Documentation files (alternatively `doc`)
+├── src                     # Source files (alternatively `lib` or `app`)
+├── test                    # Automated tests (alternatively `spec` or `tests`)
+├── tools                   # Tools and utilities
+├── LICENSE
+└── README.md
+
+#react-food/
+  ├── README.md
+  ├── node_modules/
+  ├── package.json
+  ├── public/
+             ├─ index.html
+             ├─ favicon.ico
+  ├── src/
+             ├─ App.test.js
+             ├─ index.css
+             ├─ index.js
+             ├─ src/components/
+                               ├─  App.js
+                               ├─  CategoriesList.js
+                               ├─  Category.js
+                               ├─  Item.js
+                               ├─  ItemList.js
+                               ├─  Search.js
 
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 

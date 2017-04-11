@@ -1,13 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-* React Food Test Application
+# React Food Test Application
 
 For cross origin accessibility please disable cross origin restrictions in your browser. Safari: Develop/Disable Cross Origin Restrictions, Chrome:
 install this plugin https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi)
 
-### To run this project, please use following commands:
-### 'git clone https://github.com/chiefman1/react-food'
-### 'cd react-food'
+## To run this project, please use following commands:
+
+### `git clone https://github.com/chiefman1/react-food`
+### `cd react-food`
 ### `npm install`
 ### `npm start`
 
@@ -19,23 +20,23 @@ install this plugin https://chrome.google.com/webstore/detail/allow-control-allo
 ## Folder Structure
 
 #### react-food/
-####   ├── README.md
-####   ├── node_modules/
-####   ├── package.json
-####   ├── public/
-####             ├─ index.html
-####             ├─ favicon.ico
-####  ├── src/
-####             ├─ App.test.js
-####             ├─ index.css
-####             ├─ index.js
-####             ├─ src/components/
-####                               ├─  App.js
-####                               ├─  CategoriesList.js
-####                               ├─  Category.js
-####                               ├─  Item.js
-####                               ├─  ItemList.js
-####                               ├─  Search.js
+  ####   ├── README.md
+  ####   ├── node_modules/
+  ####   ├── package.json
+  ####   ├── public/
+    ####             ├─ index.html
+    ####             ├─ favicon.ico
+  ####  ├── src/
+    ####             ├─ App.test.js
+    ####             ├─ index.css
+    ####             ├─ index.js
+    ####             ├─ src/components/
+      ####                               ├─  App.js
+      ####                               ├─  CategoriesList.js
+      ####                               ├─  Category.js
+      ####                               ├─  Item.js
+      ####                               ├─  ItemList.js
+      ####                               ├─  Search.js
 
 
 ## Available Scripts
